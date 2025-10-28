@@ -4,3 +4,5 @@
 
 [こちらのCircuitPython公式ページ](https://circuitpython.org/board/seeeduino_xiao_rp2040/)からCircuitPythonのファームウェアである.uf2ファイルをダウロードする．
 ![Install CircuitPython](images/installCircuitPython.png)
+
+準備中
